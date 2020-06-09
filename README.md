@@ -8,7 +8,7 @@ Cite as [arXiv:2005.08916 submitted to Journal of Petroleum Science and Engeneer
 @article{alyaev2020man,
   title={Man vs machine: an experimental study of geosteering decision skills},
   author={Alyaev, Sergey and Bratvold, Reidar Brumer and Ivanova, Sofija and Holsaeter, Andrew and Bendiksen, Morten},
-  journal={arXiv preprint arXiv:2005.08916, submitted to Journal of Petroleum Science and Engeneering},
+  journal={arXiv preprint arXiv:2005.08916},
   year={2020}
 }
 ```
